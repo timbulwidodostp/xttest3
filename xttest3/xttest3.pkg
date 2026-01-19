@@ -1,4 +1,4 @@
-D 'DEA': Data envelopment analysis
+D 'xttest3': Modified Wald statistic for groupwise heteroskedasticity in fixed effect model Use xttest3 With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F xttest3.ado
+F xttest3.hlp
