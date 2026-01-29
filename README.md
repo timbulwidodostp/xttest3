@@ -1,6 +1,8 @@
 # xttest3
 Modified Wald statistic for groupwise heteroskedasticity in fixed effect model Use xttest3 With STATA 19
 
+https://www.youtube.com/watch?v=dYGHr5k6-3c
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
